@@ -1,0 +1,44 @@
+_repo: Tristan-ja-Isolde_19674
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Onerva, L.
+    aliases:
+    - Streng, Hilja Onerva
+    - Lehtinen, Hilja Onerva
+    - Madetoja, Hilja Onerva
+    - Lehtinen, Onerva
+    birthdate: 1882
+    deathdate: 1972
+    gutenberg_agent_id: '2741'
+    url: http://www.gutenberg.org/2009/agents/2741
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bédier, Joseph
+    aliases:
+    - Bedier, Joseph
+    - Bédier, Charles Marie Joseph
+    birthdate: 1864
+    deathdate: 1938
+    gutenberg_agent_id: '5429'
+    url: http://www.gutenberg.org/2009/agents/5429
+    wikipedia: http://en.wikipedia.org/wiki/Joseph_B%C3%A9dier
+description: ''
+gutenberg_issued: '2006-10-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19674'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Tristan (Legendary character) -- Romances -- Adaptations'
+- !lcc 'PQ'
+- !lcsh 'Iseult (Legendary character) -- Romances -- Adaptations'
+- !lcsh 'Arthurian romances -- Adaptations'
+title: Tristan ja Isolde
+url: http://www.gutenberg.org/ebooks/19674
